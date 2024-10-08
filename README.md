@@ -11,7 +11,6 @@ Esse projeto foi divido da seguinte maneira:
         >ListaBeneficios
 *1 arquivo css para responsividade afin de não misturar com o arquivo geral de estilização do projeto
 
----
 # Uso da **API Emailjs**
 A escolha aqui foi por uma API gratuita para enviar um e-mail através dos serviços do Gmail depois do usuário preencher o formulário com o seu e-mail pessoal. *Nenhum e-mail foi salvo no processo, ficam apenas registrados na API*
 [Verifique a documentação da API - EMAIL JS](https://www.emailjs.com/docs/)
