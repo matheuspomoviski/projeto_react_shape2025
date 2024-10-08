@@ -54,4 +54,6 @@ Basta clicar no link: [Projeto Shape 2025](https://matheuspomoviski.github.io/pr
 
 Caso queira me contatar, seguem as minhas redes sociais:
 [**Instagram**](https://www.instagram.com/ehogrillo/)
+
+
 [**LinkedIn**](https://www.linkedin.com/in/matheus-pomoviski-2762502a0/)
