@@ -45,7 +45,7 @@ function App() {
           <div className="botao">
             <p>Este evento é destinado a mulheres de 18 a 55 anos, que desejam emagrecer de forma sustentável e nunca mais sofrer com o efeito sanfona.</p>
             <p>Se você está cansada de tentar perder peso sem sucesso e deseja aprender um método comprovado que já ajudou milhares de mulheres, este evento é para você.</p>
-            <button>Quero me inscrever agora</button>
+            <button><a href="#email">Quero me inscrever agora</a></button>
           </div>
         
       </section>

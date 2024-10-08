@@ -169,6 +169,12 @@ section h2{
     padding: 4rem;
 }
 
+button > a{
+    text-decoration: none;
+    color: white;
+    
+}
+
 .botao p{
     margin-bottom: 20px;
     color: var(--cor-secundaria);
@@ -187,5 +193,3 @@ section h2{
     border: none;
     border-radius: 20px;
 }
-
-/* footer */
