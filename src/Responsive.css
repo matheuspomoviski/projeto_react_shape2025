@@ -1,0 +1,135 @@
+@media (max-width: 1440px){
+    form > input[type="email"]{
+        width: 20%;
+    }
+
+    input[type="submit"]{
+        height: 50px;   
+        width: 12%;
+        
+    }
+}
+
+@media (max-width: 1250px){
+
+    form > input[type="email"]{
+        width: 23%;
+    }
+
+    input[type="submit"]{
+        height: 50px;   
+        width: 14%;
+        
+    }
+}
+
+@media (max-width: 1080px){
+
+    form > input[type="email"]{
+        width: 30%;
+    }
+
+    input[type="submit"]{
+        height: 50px;   
+        width: 20%;
+        
+    }
+
+    .titulo-article{
+        font-size: 23px;
+        padding-right: 0;
+        margin-left: 2px;
+    }
+
+    
+}
+
+@media (max-width: 576px){
+
+    .lista, .titulo-lista-beneficios{
+        display: none;
+    }
+
+    nav{
+        font-size: 8px;
+        padding: 0.3rem;
+        height: 25px;
+    }
+
+    header{
+        padding: 1rem 1rem;
+    }
+
+    header h1{
+        font-size: 30px;
+    }
+
+    .texto-header{
+        padding: 1rem;
+    }
+
+    .texto-header > p{
+        font-size: 15px;
+        width: 80%;
+    }
+        
+    /* form */
+
+    .form{
+        padding: 1rem 0.3rem;
+    }
+
+    form{
+        display: flex;
+    }
+
+    form > label{
+        display: none;
+    }
+
+    form > input[type="email"]{
+        width: 60%;
+    }
+
+    input[type="submit"]{
+        height: 50px;   
+        width: 50%;
+        
+    }
+
+    .titulo-article{
+        font-size: 16px;
+        padding: 0.5rem;
+    }
+    .descricao-evento > p{
+        font-size: 12px;
+        padding: 0;
+        margin: 10px 2px;
+    }
+    
+    section{
+        background-color: black;
+    }
+
+    section h2{
+        padding: 1.6rem;
+        font-size: 28px;
+        color: white;
+    }
+
+    .botao {
+        width: 55%;
+        padding: 0.6rem;
+    }
+    .botao p{
+        font-size: 12px;
+        margin: 6px 5px;
+        color: #e2ba4a;
+    }
+
+    .botao button{
+        width: 180px;
+        font-size: 9px;
+    }
+
+}
