@@ -1,8 +1,8 @@
 # Projeto Shape 2025 - **API Emailjs**
 ---
-Esse projeto foi desenvolvido com o uso de React, um framework do JavaScript. Decidi fazer dessa maneira para testar os conhecimentos do curso que faço pela Udemy com o professor Matheus Battisti do Hora de Codar.
+Esse projeto foi desenvolvido com o uso de React, um framework do JavaScript. Decidi fazer dessa maneira para testar os conhecimentos do curso que faço pela Udemy com o professor [Matheus Battisti](https://github.com/matheusbattisti) do Hora de Codar.
 
----
+
 ### Divisões do projeto
 Esse projeto foi divido da seguinte maneira:
 *3 componentes
