@@ -6,9 +6,9 @@ Esse projeto foi desenvolvido com o uso de React, um framework do JavaScript. De
 ### Divisões do projeto
 Esse projeto foi divido da seguinte maneira:
 * 3 componentes
-        >ArticleEvento.jsx
-        >FormEmail.jsx
-        >ListaBeneficios
+  >ArticleEvento.jsx
+  >FormEmail.jsx
+  >ListaBeneficios
 * 1 arquivo css para responsividade afin de não misturar com o arquivo geral de estilização do projeto
 
 # Uso da **API Emailjs**
