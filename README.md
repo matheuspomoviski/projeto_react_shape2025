@@ -49,3 +49,9 @@ Depois disso o chamado da API já com os dados atualizados pelo hook:
                 }
             )
         }`
+# Acesse a página para testar o projeto
+Basta clicar no link: [Projeto Shape 2025](https://matheuspomoviski.github.io/projeto_react_shape2025/)
+
+Caso queira me contatar, seguem as minhas redes sociais:
+[**Instagram**](https://www.instagram.com/ehogrillo/)
+[**LinkedIn**](https://www.linkedin.com/in/matheus-pomoviski-2762502a0/)
