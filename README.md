@@ -19,7 +19,8 @@ A escolha aqui foi por uma API gratuita para enviar um e-mail através dos servi
 ## Execução da API
 
 Dentro do componente _FormEmail.jsx_ foi desenvolvido a estrutura do HTML do formulário com uso de 02 inputs e 01 label, conforme o código:
-        `    <div className="form"> 
+       
+        ```    <div className="form"> 
                 <form ref={form}  onSubmit={sendEmail}>
                 <label htmlFor="email">Email:</label>
                 <input type="email" name="email" id="email"
@@ -27,7 +28,7 @@ Dentro do componente _FormEmail.jsx_ foi desenvolvido a estrutura do HTML do for
                 <input type="submit" value="Me inscrever" />
                 </form>
             </div>
-        `
+        ```
 
 E usando o useState que é um hook do React, foi criado a função para atribuir valor ao valor preenchido no formulário:
         `const [email, setEmail] = useState('')`
