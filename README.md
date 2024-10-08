@@ -5,11 +5,11 @@ Esse projeto foi desenvolvido com o uso de React, um framework do JavaScript. De
 
 ### Divisões do projeto
 Esse projeto foi divido da seguinte maneira:
-*3 componentes
+* 3 componentes
         > ArticleEvento.jsx
         >FormEmail.jsx
         >ListaBeneficios
-*1 arquivo css para responsividade afin de não misturar com o arquivo geral de estilização do projeto
+* 1 arquivo css para responsividade afin de não misturar com o arquivo geral de estilização do projeto
 
 # Uso da **API Emailjs**
 A escolha aqui foi por uma API gratuita para enviar um e-mail através dos serviços do Gmail depois do usuário preencher o formulário com o seu e-mail pessoal. *Nenhum e-mail foi salvo no processo, ficam apenas registrados na API*
