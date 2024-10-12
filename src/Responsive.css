@@ -44,7 +44,15 @@
     
 }
 
-@media (max-width: 576px){
+@media(max-width:901px){
+    .lista li{
+        height: 130px;
+        font-size: 14px;
+    }
+}
+
+
+@media (max-width: 600px){
 
     .lista, .titulo-lista-beneficios{
         display: none;
@@ -93,16 +101,16 @@
 
     input[type="submit"]{
         height: 50px;   
-        width: 50%;
+        width: 40%;
         
     }
 
     .titulo-article{
-        font-size: 16px;
+        font-size: 19px;
         padding: 0.5rem;
     }
     .descricao-evento > p{
-        font-size: 12px;
+        font-size: 14px;
         padding: 0;
         margin: 10px 2px;
     }
@@ -118,17 +126,17 @@
     }
 
     .botao {
-        width: 55%;
+        width: 65%;
         padding: 0.6rem;
     }
     .botao p{
-        font-size: 12px;
+        font-size: 14px;
         margin: 6px 5px;
         color: #e2ba4a;
     }
 
     .botao button{
-        width: 180px;
+        width: 240px;
         font-size: 9px;
     }
 
